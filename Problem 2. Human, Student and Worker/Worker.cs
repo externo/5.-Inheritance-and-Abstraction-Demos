@@ -21,7 +21,7 @@ namespace Problem_2.Human__Student_and_Worker
             this.WorkHoursPerDay = workHoursPerDay;
         }
 
-        public override string FirstName
+        public string FirstName
         {
             get
             {
@@ -33,7 +33,7 @@ namespace Problem_2.Human__Student_and_Worker
             }
         }
 
-        public override string LastName
+        public string LastName
         {
             get
             {

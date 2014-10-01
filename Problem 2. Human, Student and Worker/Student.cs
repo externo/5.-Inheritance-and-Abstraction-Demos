@@ -8,8 +8,8 @@ namespace Problem_2.Human__Student_and_Worker
 {
     class Student: Human
     {
-        private string firstName;
-        private string lastName;
+        //private string firstName;
+        //private string lastName;
         private string facultyNumber;
 
         public Student(string firstName, string lastName, string facultyNumber)
@@ -19,29 +19,29 @@ namespace Problem_2.Human__Student_and_Worker
             this.FacultyNumber = facultyNumber;
         }
 
-        public override string FirstName
-        {
-            get
-            {
-                return this.firstName;
-            }
-            set
-            {
-                this.firstName = value;
-            }
-        }
+        //public string FirstName
+        //{
+        //    get
+        //    {
+        //        return this.firstName;
+        //    }
+        //    set
+        //    {
+        //        this.firstName = value;
+        //    }
+        //}
 
-        public override string LastName
-        {
-            get
-            {
-                return this.lastName;
-            }
-            set
-            {
-                this.lastName = value;
-            }
-        }
+        //public string LastName
+        //{
+        //    get
+        //    {
+        //        return this.lastName;
+        //    }
+        //    set
+        //    {
+        //        this.lastName = value;
+        //    }
+        //}
 
         public string FacultyNumber 
         {
@@ -60,6 +60,12 @@ namespace Problem_2.Human__Student_and_Worker
                     throw new ArgumentOutOfRangeException("Faculty number length should be in range 5..10 symbols");
                 }
             }
+        }
+
+        public string FullName(string FirstName, string LastName)
+            : base(firstName, lastName)
+        {
+
         }
     }
 }

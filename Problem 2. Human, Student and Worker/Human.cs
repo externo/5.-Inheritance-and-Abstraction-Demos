@@ -8,8 +8,8 @@ namespace Problem_2.Human__Student_and_Worker
 {
     abstract class Human
     {
-        public abstract string FirstName { get; set; }
-        public abstract string LastName { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
 
         public string FullName(string FirstName, string LastName)
         {

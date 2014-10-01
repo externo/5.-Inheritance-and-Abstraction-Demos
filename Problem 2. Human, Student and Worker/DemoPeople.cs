@@ -10,6 +10,8 @@ namespace Problem_2.Human__Student_and_Worker
     {
         static void Main(string[] args)
         {
+            Student gosho = new Student("gogo", "goshev", "pabass");
+            Console.WriteLine(gosho.FirstName);
         }
     }
 }
