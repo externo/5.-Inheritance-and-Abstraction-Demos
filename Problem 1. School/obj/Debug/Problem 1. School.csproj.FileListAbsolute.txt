@@ -1,0 +1,2 @@
+E:\Downloads\5. Inheritance-and-Abstraction-Demos\Problem 1. School\bin\Debug\Problem_1.School.exe.config
+E:\Downloads\5. Inheritance-and-Abstraction-Demos\Problem 1. School\obj\Debug\Problem 1. School.csprojResolveAssemblyReference.cache
