@@ -61,11 +61,11 @@ namespace Problem_2.Human__Student_and_Worker
                 }
             }
         }
-
-        public string FullName(string FirstName, string LastName)
-            : base(firstName, lastName)
-        {
-
-        }
+                    
+        //public string FullName()
+        ////    : base()
+        //{
+        //    return string.Format("My name is: {0} {1}.", this.FirstName, this.LastName);
+        //}
     }
 }

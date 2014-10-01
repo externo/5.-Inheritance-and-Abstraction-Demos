@@ -1,0 +1,6 @@
+F:\VisualStudio\C#\5.-Inheritance-and-Abstraction-Demos\Problem 3. Animals\bin\Debug\Problem_3.Animals.exe.config
+F:\VisualStudio\C#\5.-Inheritance-and-Abstraction-Demos\Problem 3. Animals\obj\Debug\Problem 3. Animals.csprojResolveAssemblyReference.cache
+F:\VisualStudio\C#\5.-Inheritance-and-Abstraction-Demos\Problem 3. Animals\bin\Debug\Problem_3.Animals.exe
+F:\VisualStudio\C#\5.-Inheritance-and-Abstraction-Demos\Problem 3. Animals\bin\Debug\Problem_3.Animals.pdb
+F:\VisualStudio\C#\5.-Inheritance-and-Abstraction-Demos\Problem 3. Animals\obj\Debug\Problem_3.Animals.exe
+F:\VisualStudio\C#\5.-Inheritance-and-Abstraction-Demos\Problem 3. Animals\obj\Debug\Problem_3.Animals.pdb

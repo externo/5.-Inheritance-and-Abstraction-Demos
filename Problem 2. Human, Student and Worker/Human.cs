@@ -11,7 +11,7 @@ namespace Problem_2.Human__Student_and_Worker
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public string FullName(string FirstName, string LastName)
+        public string FullName()
         {
             return string.Format("My name is: {0} {1}.", this.FirstName, this.LastName);
         }

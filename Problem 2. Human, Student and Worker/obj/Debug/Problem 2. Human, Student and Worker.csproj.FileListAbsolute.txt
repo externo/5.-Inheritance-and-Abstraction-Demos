@@ -4,3 +4,9 @@ E:\Downloads\5. Inheritance-and-Abstraction-Demos\Problem 2. Human, Student and 
 E:\Downloads\5. Inheritance-and-Abstraction-Demos\Problem 2. Human, Student and Worker\bin\Debug\Problem_2.Human__Student_and_Worker.pdb
 E:\Downloads\5. Inheritance-and-Abstraction-Demos\Problem 2. Human, Student and Worker\obj\Debug\Problem_2.Human__Student_and_Worker.exe
 E:\Downloads\5. Inheritance-and-Abstraction-Demos\Problem 2. Human, Student and Worker\obj\Debug\Problem_2.Human__Student_and_Worker.pdb
+F:\VisualStudio\C#\5.-Inheritance-and-Abstraction-Demos\Problem 2. Human, Student and Worker\bin\Debug\Problem_2.Human__Student_and_Worker.exe.config
+F:\VisualStudio\C#\5.-Inheritance-and-Abstraction-Demos\Problem 2. Human, Student and Worker\obj\Debug\Problem_2.Human__Student_and_Worker.exe
+F:\VisualStudio\C#\5.-Inheritance-and-Abstraction-Demos\Problem 2. Human, Student and Worker\obj\Debug\Problem_2.Human__Student_and_Worker.pdb
+F:\VisualStudio\C#\5.-Inheritance-and-Abstraction-Demos\Problem 2. Human, Student and Worker\obj\Debug\Problem 2. Human, Student and Worker.csprojResolveAssemblyReference.cache
+F:\VisualStudio\C#\5.-Inheritance-and-Abstraction-Demos\Problem 2. Human, Student and Worker\bin\Debug\Problem_2.Human__Student_and_Worker.exe
+F:\VisualStudio\C#\5.-Inheritance-and-Abstraction-Demos\Problem 2. Human, Student and Worker\bin\Debug\Problem_2.Human__Student_and_Worker.pdb

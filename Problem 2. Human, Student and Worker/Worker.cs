@@ -20,34 +20,30 @@ namespace Problem_2.Human__Student_and_Worker
             this.WeekSalary = weekSalary;
             this.WorkHoursPerDay = workHoursPerDay;
         }
-
-        public string FirstName
+        
+        public double WeekSalary 
         {
-            get
+            get 
             {
-                return this.firstName;
+                return this.weekSalary;
             }
             set
             {
-                this.firstName = value;
+                this.weekSalary = value;
             }
         }
 
-        public string LastName
+        public int WorkHoursPerDay 
         {
-            get
+            get 
             {
-                return this.lastName;
+                return this.workHoursPerDay;
             }
-            set
+            set 
             {
-                this.lastName = value;
+                this.workHoursPerDay = value;
             }
         }
-
-        public double WeekSalary { get; set; }
-
-        public int WorkHoursPerDay { get; set; }
 
         public double MoneyPerHour()
         {
