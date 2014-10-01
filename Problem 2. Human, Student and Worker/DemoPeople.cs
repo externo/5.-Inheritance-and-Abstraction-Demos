@@ -12,6 +12,7 @@ namespace Problem_2.Human__Student_and_Worker
         {
             Student gosho = new Student("gogo", "goshev", "pabass");
             Console.WriteLine(gosho.FirstName);
+            gosho.
         }
     }
 }
