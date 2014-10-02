@@ -10,7 +10,8 @@ namespace Problem_4.Company_Hierarchy
     {
         private List<Employee> setOfEmployees;
 
-        public Manager(string id, string firstName, string lastName, List<Employee> setOfemployees)
+        public Manager(string id, string firstName, string lastName, decimal salary, 
+            Department department, List<Employee> setOfemployees)
             : base(id, firstName, lastName, salary, department)
         {
             this.SetOfEmployees = setOfemployees;

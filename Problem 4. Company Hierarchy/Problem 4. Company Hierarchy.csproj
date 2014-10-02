@@ -46,10 +46,10 @@
     <Compile Include="Developer.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="ICostumer.cs" />
+    <Compile Include="IDeveloper.cs" />
     <Compile Include="IEmployee.cs" />
     <Compile Include="IManager.cs" />
     <Compile Include="IPerson.cs" />
-    <Compile Include="IProjects.cs" />
     <Compile Include="IRegularEmployee.cs" />
     <Compile Include="ISale.cs" />
     <Compile Include="ISalesEmployee.cs" />

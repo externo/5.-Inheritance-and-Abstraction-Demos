@@ -20,7 +20,7 @@ namespace Problem_4.Company_Hierarchy
             this.LastName = lastName;
         }
 
-        string ID 
+        public string ID 
         { 
             get 
             {
@@ -32,7 +32,7 @@ namespace Problem_4.Company_Hierarchy
             } 
         }
 
-        string FirstName
+        public string FirstName
         {
             get
             {
@@ -44,7 +44,7 @@ namespace Problem_4.Company_Hierarchy
             }
         }
 
-        string LastName
+        public string LastName
         {
             get
             {

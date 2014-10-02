@@ -9,7 +9,7 @@ namespace Problem_4.Company_Hierarchy
     interface IPerson
     {
         //id, first name and last name
-        string Id { get; set; }
+        string ID { get; set; }
 
         string FirstName { get; set; }
 

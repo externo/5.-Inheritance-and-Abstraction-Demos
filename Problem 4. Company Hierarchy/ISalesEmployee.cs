@@ -8,6 +8,6 @@ namespace Problem_4.Company_Hierarchy
 {
     interface ISalesEmployee
     {
-        ISet<Department> employees { get; set; }
+        List<Sale> SetOfSales { get; set; }
     }
 }

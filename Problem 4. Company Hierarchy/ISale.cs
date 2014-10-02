@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problem_4.Company_Hierarchy
 {
-    class ISale
+    public interface ISale
     {
         string ProductName { get; set; }
 
