@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Problem_4.Company_Hierarchy
 {
-    class Marketing: Department
+    class ISale
     {
+        string ProductName { get; set; }
+
+        DateTime SaleDate { get; set; }
+
+        decimal Price { get; set; }
     }
 }

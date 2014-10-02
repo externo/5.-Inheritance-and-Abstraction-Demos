@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Problem_4.Company_Hierarchy
 {
-    class ICostumer
+    interface ICostumer
     {
-
+        decimal NetPurchaseAmount { get; set; }
     }
 }

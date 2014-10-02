@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problem_4.Company_Hierarchy
 {
-    class Accounting: Department
+    class Projects: IProjects
     {
     }
 }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Problem_4.Company_Hierarchy
 {
-    abstract class Department
+    public enum Department
     {
+        Production, Accounting, Sales, Marketing
     }
 }
